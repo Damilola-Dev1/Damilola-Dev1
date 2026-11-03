@@ -1,4 +1,4 @@
-# Damilola Samuel A.
+# Damilola Samuel.A
 
 ### Frontend Developer | React | JavaScript | TypeScript
 
