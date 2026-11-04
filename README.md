@@ -91,6 +91,8 @@ A weather application that provides current weather information for the capital 
 
 **GitHub:** https://github.com/Damilola-Dev1
 
+**LinkedIn:** https://www.linkedin.com/in/damilola-samuel-a-a3bb6b360/
+
 I'm open to frontend development opportunities, collaborations and freelance projects.
 
 <!--
