@@ -41,7 +41,7 @@ A website developed for a beauty studio and training centre in Lagos, Nigeria.
 
 **GitHub Repository:** https://github.com/Damilola-Dev1/pwesh-beauty-hub
 
-### Cedars School Management System
+### 3. Cedars School Management System
 A school management application built to streamline student records, fee tracking, attendance, and academic results.
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Firebase
