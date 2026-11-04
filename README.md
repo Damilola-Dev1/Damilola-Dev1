@@ -46,7 +46,7 @@ A school management application built to streamline student records, fee trackin
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Firebase
 
-**Status:** Under Development
+**Status:** Core application completed; security review pending.
 
 ### 4. Expense Tracker
 
